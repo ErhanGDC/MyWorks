@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\AnonymousType\bin\Debug\AnonymousType.exe.config
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\AnonymousType\bin\Debug\AnonymousType.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\AnonymousType\bin\Debug\AnonymousType.pdb
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\AnonymousType\obj\Debug\AnonymousType.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\AnonymousType\obj\Debug\AnonymousType.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\AnonymousType\obj\Debug\AnonymousType.pdb

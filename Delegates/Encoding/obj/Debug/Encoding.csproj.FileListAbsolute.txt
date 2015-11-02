@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Encoding\bin\Debug\Encoding.exe.config
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Encoding\obj\Debug\Encoding.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Encoding\bin\Debug\Encoding.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Encoding\bin\Debug\Encoding.pdb
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Encoding\obj\Debug\Encoding.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Encoding\obj\Debug\Encoding.pdb

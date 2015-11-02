@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FluentValidation\bin\Debug\FluentValidation.exe.config
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FluentValidation\bin\Debug\FluentValidation.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FluentValidation\bin\Debug\FluentValidation.pdb
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FluentValidation\obj\Debug\FluentValidation.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FluentValidation\obj\Debug\FluentValidation.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FluentValidation\obj\Debug\FluentValidation.pdb

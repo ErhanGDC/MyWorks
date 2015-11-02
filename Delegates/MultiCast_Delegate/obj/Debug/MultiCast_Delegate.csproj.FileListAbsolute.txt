@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\MultiCast_Delegate\bin\Debug\MultiCast_Delegate.exe.config
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\MultiCast_Delegate\bin\Debug\MultiCast_Delegate.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\MultiCast_Delegate\bin\Debug\MultiCast_Delegate.pdb
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\MultiCast_Delegate\obj\Debug\MultiCast_Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\MultiCast_Delegate\obj\Debug\MultiCast_Delegate.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\MultiCast_Delegate\obj\Debug\MultiCast_Delegate.pdb

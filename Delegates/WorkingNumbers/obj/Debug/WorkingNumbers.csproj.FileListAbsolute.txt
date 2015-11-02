@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\WorkingNumbers\bin\Debug\WorkingNumbers.exe.config
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\WorkingNumbers\bin\Debug\WorkingNumbers.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\WorkingNumbers\bin\Debug\WorkingNumbers.pdb
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.pdb

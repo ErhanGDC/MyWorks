@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Customizable\bin\Debug\Customizable.exe.config
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Customizable\obj\Debug\Customizable.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Customizable\bin\Debug\Customizable.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Customizable\bin\Debug\Customizable.pdb
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Customizable\obj\Debug\Customizable.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Customizable\obj\Debug\Customizable.pdb

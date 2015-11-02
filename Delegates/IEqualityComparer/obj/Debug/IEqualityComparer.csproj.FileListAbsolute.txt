@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\IEqualityComparer\bin\Debug\IEqualityComparer.exe.config
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\IEqualityComparer\bin\Debug\IEqualityComparer.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\IEqualityComparer\bin\Debug\IEqualityComparer.pdb
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\IEqualityComparer\obj\Debug\IEqualityComparer.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\IEqualityComparer\obj\Debug\IEqualityComparer.exe
+C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\IEqualityComparer\obj\Debug\IEqualityComparer.pdb
