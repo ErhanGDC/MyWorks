@@ -1,0 +1,2 @@
+Delegates|AnonymousType|bin|
+Delegates|AnonymousType|obj|
