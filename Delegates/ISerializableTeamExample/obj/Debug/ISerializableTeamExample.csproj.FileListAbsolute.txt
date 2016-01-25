@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ISerializableTeamExample\bin\Debug\ISerializableTeamExample.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ISerializableTeamExample\bin\Debug\ISerializableTeamExample.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ISerializableTeamExample\bin\Debug\ISerializableTeamExample.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ISerializableTeamExample\obj\Debug\ISerializableTeamExample.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ISerializableTeamExample\obj\Debug\ISerializableTeamExample.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ISerializableTeamExample\obj\Debug\ISerializableTeamExample.pdb
