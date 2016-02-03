@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\PLINQ_Example\bin\Debug\PLINQ_Example.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\PLINQ_Example\bin\Debug\PLINQ_Example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\PLINQ_Example\bin\Debug\PLINQ_Example.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\PLINQ_Example\obj\Debug\PLINQ_Example.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\PLINQ_Example\obj\Debug\PLINQ_Example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\PLINQ_Example\obj\Debug\PLINQ_Example.pdb
