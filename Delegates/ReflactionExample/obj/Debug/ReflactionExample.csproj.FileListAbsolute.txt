@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ReflactionExample\bin\Debug\ReflactionExample.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ReflactionExample\bin\Debug\ReflactionExample.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ReflactionExample\bin\Debug\ReflactionExample.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ReflactionExample\obj\Debug\ReflactionExample.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ReflactionExample\obj\Debug\ReflactionExample.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\ReflactionExample\obj\Debug\ReflactionExample.pdb

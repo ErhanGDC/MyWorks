@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Two_Way_Signaling\bin\Debug\Two_Way_Signaling.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Two_Way_Signaling\obj\Debug\Two_Way_Signaling.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Two_Way_Signaling\bin\Debug\Two_Way_Signaling.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Two_Way_Signaling\bin\Debug\Two_Way_Signaling.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Two_Way_Signaling\obj\Debug\Two_Way_Signaling.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Two_Way_Signaling\obj\Debug\Two_Way_Signaling.pdb
