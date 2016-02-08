@@ -26,6 +26,8 @@ namespace OperatorOverloading
     {
         int value;
         public Note(int semitoneFromA) { value = semitoneFromA; }
+        
+        // Extention Method
         public static Note operator +(Note x, int semitones)
         {
             return new Note(x.value + semitones);

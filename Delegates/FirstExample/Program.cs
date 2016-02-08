@@ -28,9 +28,18 @@ namespace FirstExample
                 names, n => n.Contains("a")
                 ), n => n.Length), n => n.ToUpper());
 
-
+            IEnumerable<string> query1 = Enumerable.Select(
+                Enumerable.OrderBy(
+                Enumerable.Where(
+                names,n=> n.Contains("r"))
+                , n => n.Length), n => n.Trim());
 
             foreach(string n in query)
+                Console.WriteLine(n);
+
+            Console.WriteLine("\n\n\n");
+
+            foreach(string n in query1)
                 Console.WriteLine(n);
 
             Console.ReadLine();

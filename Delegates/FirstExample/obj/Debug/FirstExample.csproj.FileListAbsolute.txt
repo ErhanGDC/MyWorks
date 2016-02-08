@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FirstExample\bin\
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FirstExample\obj\Debug\FirstExample.exe
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FirstExample\obj\Debug\FirstExample.pdb
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\FirstExample\obj\Debug\FirstExample.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FirstExample\bin\Debug\FirstExample.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FirstExample\obj\Debug\FirstExample.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FirstExample\obj\Debug\FirstExample.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FirstExample\obj\Debug\FirstExample.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FirstExample\bin\Debug\FirstExample.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FirstExample\bin\Debug\FirstExample.pdb

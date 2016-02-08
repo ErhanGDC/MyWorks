@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Guid\bin\Debug\Gu
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Guid\obj\Debug\Guid.exe
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Guid\obj\Debug\Guid.pdb
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Guid\obj\Debug\GuidAndEquelity.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\bin\Debug\Guid.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\obj\Debug\Guid.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\obj\Debug\Guid.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\bin\Debug\Guid.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\bin\Debug\Guid.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\obj\Debug\GuidAndEquelity.csprojResolveAssemblyReference.cache

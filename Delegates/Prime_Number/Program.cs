@@ -13,11 +13,13 @@ namespace Prime_Number
             List<int> AllNumbers = new List<int>();
             int[] Numbers=new int[101];
 
+           
             for (int i = 0; i < Numbers.Length; i++)
             {
                 Numbers[i] += i;
             }
-
+            
+            //Fill and Drain =)
             for (int j = 0; j < Numbers.Length; j++)
             {
                 AllNumbers.Add(j);
@@ -25,10 +27,10 @@ namespace Prime_Number
 
             for (int i = 1; i < AllNumbers.Capacity; i++)
             {
-                if (AllNumbers[i] % 1 == 1 && AllNumbers[i] % i == 1)
-                {
+               // if (AllNumbers[i] % 1 == 1)
+               // {
                     Console.WriteLine(i);
-                }
+               // }
             }
 
             Console.ReadLine();

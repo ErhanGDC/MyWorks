@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\CompareSortPhoneL
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\CompareSortPhoneList\obj\Debug\CompareSortPhoneList.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\CompareSortPhoneList\obj\Debug\CompareSortPhoneList.exe
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\CompareSortPhoneList\obj\Debug\CompareSortPhoneList.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CompareSortPhoneList\bin\Debug\CompareSortPhoneList.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CompareSortPhoneList\obj\Debug\CompareSortPhoneList.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CompareSortPhoneList\obj\Debug\CompareSortPhoneList.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CompareSortPhoneList\bin\Debug\CompareSortPhoneList.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CompareSortPhoneList\bin\Debug\CompareSortPhoneList.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CompareSortPhoneList\obj\Debug\CompareSortPhoneList.csprojResolveAssemblyReference.cache

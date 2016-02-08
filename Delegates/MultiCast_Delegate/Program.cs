@@ -14,7 +14,7 @@ namespace MultiCast_Delegate
             for (int i = 0; i < 10; i++)
             {
                 p(i * 10);
-                System.Threading.Thread.Sleep(100);
+                System.Threading.Thread.Sleep(2000);
             }
         }
     }

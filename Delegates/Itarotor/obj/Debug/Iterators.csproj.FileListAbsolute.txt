@@ -4,3 +4,6 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Itarotor\bin\Debu
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Itarotor\bin\Debug\Itarotor.pdb
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Itarotor\obj\Debug\Itarotor.exe
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Itarotor\obj\Debug\Itarotor.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Itarotor\bin\Debug\Itarotor.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Itarotor\obj\Debug\Itarotor.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Itarotor\obj\Debug\Itarotor.pdb

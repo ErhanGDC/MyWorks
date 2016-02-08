@@ -12,7 +12,7 @@ namespace Exceptions
     {
         static void Main(string[] args)
         {
-            StreamReader reader = new StreamReader("C:\\For Loop.txt");
+            StreamReader reader = new StreamReader(@"ForLoop.txt");
             try
             {
                 ///reader.File.OpenText("For Loop.txt");

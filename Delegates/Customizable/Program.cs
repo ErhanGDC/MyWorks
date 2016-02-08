@@ -12,12 +12,13 @@ namespace Customizable
         static void Main(string[] args)
         {
             Zoo zoo = new Zoo();
-            zoo.Animals.Add(new Animal ("Kangaroo",10));
-            zoo.Animals.Add(new Animal ("Mr Sea Lion",20));
+            zoo.Animals.Add(new Animal("Kangaroo", 10));
+            zoo.Animals.Add(new Animal("Mr Sea Lion", 20));
+            zoo.Animals.Add(new Animal("Tiger and Eager",30));
             foreach (Animal item in zoo.Animals)
-	{
-		 Console.WriteLine(item.Name);
-	}
+            {
+                Console.WriteLine(item.Name);
+            }
             Console.ReadLine();
         }
     }
@@ -36,19 +37,21 @@ namespace Customizable
         public string Name;
         public int Popularity;
 
-        public Animal(string name, int popularity) 
+        public Animal(string name, int popularity)
         {
             Name = name;
             Popularity = popularity;
         }
     }
 
+    // Nested Class is possible in C#. I am calling another class from here. Also I can transform a class to a Collection
     public class AnimalCollection : Collection<Animal>
-    { 
-    //AnimalCollection is already a fully functioning list of animals.
-    //No extra code is required   
+    {
+        //AnimalCollection is already a fully functioning list of animals.
+        //No extra code is required   
     }
 
+    // Nested Class is possible in C#. I am calling another class from here.
     public class Zoo
     {//The class that will expose AnimalCollection
         // this would be typically have additional members

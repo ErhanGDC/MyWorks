@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\String_Format\bin
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\String_Format\bin\Debug\String_Format.pdb
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\String_Format\obj\Debug\String_Format.exe
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\String_Format\obj\Debug\String_Format.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\String_Format\bin\Debug\String_Format.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\String_Format\obj\Debug\String_Format.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\String_Format\obj\Debug\String_Format.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\String_Format\bin\Debug\String_Format.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\String_Format\bin\Debug\String_Format.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\String_Format\obj\Debug\String_Format.csprojResolveAssemblyReference.cache
