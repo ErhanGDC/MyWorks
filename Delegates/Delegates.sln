@@ -133,6 +133,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleSystemDate", "Exampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel_Reflaction", "Excel_Reflaction\Excel_Reflaction.csproj", "{89A185D7-8FDE-4F25-8965-2E60265AFAFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtensionMethod", "StringExtensionMethod\StringExtensionMethod.csproj", "{3926A1D1-3AC9-4941-8F33-AB824420B959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityComparerExample", "EqualityComparerExample\EqualityComparerExample.csproj", "{9DC7B017-B7C5-4DDF-ADC2-78231AD306FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -347,6 +351,14 @@ Global
 		{89A185D7-8FDE-4F25-8965-2E60265AFAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89A185D7-8FDE-4F25-8965-2E60265AFAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89A185D7-8FDE-4F25-8965-2E60265AFAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3926A1D1-3AC9-4941-8F33-AB824420B959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3926A1D1-3AC9-4941-8F33-AB824420B959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3926A1D1-3AC9-4941-8F33-AB824420B959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3926A1D1-3AC9-4941-8F33-AB824420B959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC7B017-B7C5-4DDF-ADC2-78231AD306FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC7B017-B7C5-4DDF-ADC2-78231AD306FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC7B017-B7C5-4DDF-ADC2-78231AD306FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC7B017-B7C5-4DDF-ADC2-78231AD306FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -391,5 +403,6 @@ Global
 		{7DB1DEB0-3E16-43ED-BE63-7C35D501A65B} = {96FDA1AE-DD47-42AB-8F00-67BD9C231120}
 		{DAC3C19B-E061-4E53-916F-11D11668ACEE} = {211CAD92-2647-401D-B04F-711D7C87D215}
 		{89A185D7-8FDE-4F25-8965-2E60265AFAFB} = {211CAD92-2647-401D-B04F-711D7C87D215}
+		{9DC7B017-B7C5-4DDF-ADC2-78231AD306FB} = {81023DF7-8A4F-494F-8DF9-6E3E5A8D4BC6}
 	EndGlobalSection
 EndGlobal
