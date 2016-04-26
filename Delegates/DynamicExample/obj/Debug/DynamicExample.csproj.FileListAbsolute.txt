@@ -1,5 +1,4 @@
 C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\bin\Debug\DynamicExample.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\obj\Debug\DynamicExample.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\bin\Debug\DynamicExample.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\bin\Debug\DynamicExample.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\obj\Debug\DynamicExample.exe

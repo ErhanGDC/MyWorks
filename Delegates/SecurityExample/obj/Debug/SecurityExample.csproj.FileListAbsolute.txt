@@ -1,4 +1,3 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\SecurityExample\obj\Debug\SecurityExample.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\SecurityExample\bin\Debug\SecurityExample.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\SecurityExample\bin\Debug\SecurityExample.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\SecurityExample\bin\Debug\SecurityExample.pdb

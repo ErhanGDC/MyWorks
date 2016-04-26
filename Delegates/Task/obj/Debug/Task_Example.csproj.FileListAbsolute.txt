@@ -1,6 +1,5 @@
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Task\bin\Debug\Task.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Task\bin\Debug\Task.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Task\bin\Debug\Task.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Task\obj\Debug\Task_Example.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Task\obj\Debug\Task.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Task\obj\Debug\Task.pdb

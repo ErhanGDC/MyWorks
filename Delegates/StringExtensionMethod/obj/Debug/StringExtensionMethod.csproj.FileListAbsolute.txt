@@ -1,6 +1,5 @@
 C:\Users\Erhan\Desktop\MyWorks\Delegates\StringExtensionMethod\bin\Debug\StringExtensionMethod.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\StringExtensionMethod\bin\Debug\StringExtensionMethod.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\StringExtensionMethod\bin\Debug\StringExtensionMethod.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\StringExtensionMethod\obj\Debug\StringExtensionMethod.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\StringExtensionMethod\obj\Debug\StringExtensionMethod.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\StringExtensionMethod\obj\Debug\StringExtensionMethod.pdb

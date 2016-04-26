@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_1\bin\Debug\Example_1.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_1\bin\Debug\Example_1.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_1\bin\Debug\Example_1.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_1\obj\Debug\Example_1.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_1\obj\Debug\Example_1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\TaskFactory_Example\bin\Debug\TaskFactory_Example.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\TaskFactory_Example\bin\Debug\TaskFactory_Example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\TaskFactory_Example\bin\Debug\TaskFactory_Example.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\TaskFactory_Example\obj\Debug\TaskFactory_Example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\TaskFactory_Example\obj\Debug\TaskFactory_Example.pdb

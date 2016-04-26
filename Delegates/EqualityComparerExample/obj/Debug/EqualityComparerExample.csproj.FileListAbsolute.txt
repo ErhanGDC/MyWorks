@@ -1,6 +1,5 @@
 C:\Users\Erhan\Desktop\MyWorks\Delegates\EqualityComparerExample\bin\Debug\EqualityComparerExample.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\EqualityComparerExample\bin\Debug\EqualityComparerExample.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\EqualityComparerExample\bin\Debug\EqualityComparerExample.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\EqualityComparerExample\obj\Debug\EqualityComparerExample.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\EqualityComparerExample\obj\Debug\EqualityComparerExample.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\EqualityComparerExample\obj\Debug\EqualityComparerExample.pdb

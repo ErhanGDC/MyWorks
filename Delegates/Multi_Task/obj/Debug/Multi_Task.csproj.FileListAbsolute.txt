@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Task\bin\Debug\Multi_Task.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Task\bin\Debug\Multi_Task.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Task\bin\Debug\Multi_Task.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Task\obj\Debug\Multi_Task.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Task\obj\Debug\Multi_Task.pdb

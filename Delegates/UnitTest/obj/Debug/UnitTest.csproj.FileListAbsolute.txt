@@ -5,5 +5,8 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\UnitTest\bin\Debu
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\UnitTest\obj\Debug\UnitTest.exe
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\UnitTest\obj\Debug\UnitTest.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\UnitTest\bin\Debug\UnitTest.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\UnitTest\bin\Debug\UnitTest.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\UnitTest\obj\Debug\UnitTest.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\UnitTest\obj\Debug\UnitTest.pdb

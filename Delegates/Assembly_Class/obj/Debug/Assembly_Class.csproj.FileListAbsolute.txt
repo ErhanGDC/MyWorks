@@ -1,6 +1,5 @@
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Assembly_Class\bin\Debug\Assembly_Class.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Assembly_Class\bin\Debug\Assembly_Class.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Assembly_Class\bin\Debug\Assembly_Class.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Assembly_Class\obj\Debug\Assembly_Class.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Assembly_Class\obj\Debug\Assembly_Class.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Assembly_Class\obj\Debug\Assembly_Class.pdb

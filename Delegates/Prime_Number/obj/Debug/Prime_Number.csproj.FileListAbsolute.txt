@@ -1,4 +1,3 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Prime_Number\obj\Debug\Prime_Number.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Prime_Number\bin\Debug\Prime_Number.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Prime_Number\bin\Debug\Prime_Number.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Prime_Number\bin\Debug\Prime_Number.pdb

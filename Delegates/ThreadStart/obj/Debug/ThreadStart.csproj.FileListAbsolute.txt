@@ -3,4 +3,3 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\ThreadStart\bin\Debug\ThreadStart.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ThreadStart\bin\Debug\ThreadStart.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ThreadStart\obj\Debug\ThreadStart.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ThreadStart\obj\Debug\ThreadStart.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\ThreadStart\obj\Debug\ThreadStart.csprojResolveAssemblyReference.cache

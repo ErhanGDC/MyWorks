@@ -1,6 +1,6 @@
 C:\Users\Erhan\Desktop\MyWorks\Delegates\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\OperatorOverloading\obj\Debug\OperatorOverloading.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\OperatorOverloading\obj\Debug\OperatorOverloading.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\OperatorOverloading\bin\Debug\OperatorOverloading.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\OperatorOverloading\obj\Debug\OperatorOverloading_ExtensionMethod.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

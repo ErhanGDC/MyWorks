@@ -5,8 +5,7 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\LinqStrategies\ob
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\LinqStrategies\obj\Debug\LinqStrategies.pdb
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\LinqStrategies\obj\Debug\LinqStrategies.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\bin\Debug\LinqStrategies.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\bin\Debug\LinqStrategies.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\bin\Debug\LinqStrategies.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.pdb

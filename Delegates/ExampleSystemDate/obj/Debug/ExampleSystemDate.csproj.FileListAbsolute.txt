@@ -1,4 +1,3 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\ExampleSystemDate\obj\Debug\ExampleSystemDate.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExampleSystemDate\bin\Debug\ExampleSystemDate.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExampleSystemDate\bin\Debug\ExampleSystemDate.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExampleSystemDate\bin\Debug\ExampleSystemDate.pdb
