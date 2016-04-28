@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_Interface\bin\Debug\Exam_Interface.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_Interface\bin\Debug\Exam_Interface.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_Interface\bin\Debug\Exam_Interface.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_Interface\obj\Debug\Exam_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_Interface\obj\Debug\Exam_Interface.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_Interface\obj\Debug\Exam_Interface.pdb

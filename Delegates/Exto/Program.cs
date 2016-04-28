@@ -24,7 +24,7 @@ namespace Exto
 
             Console.WriteLine("-----------------------------------");
 
-            Celal cel=new Celal() { Yas=35 };
+            Celal cel = new Celal() { Yas = 35 };
             Console.WriteLine(cel.Yas);
 
             Console.WriteLine(YasDegis(cel));
@@ -36,7 +36,7 @@ namespace Exto
             MemoryStream memoryStream = (MemoryStream)stream;
             double x = 1234.7;
             int a;
-            // Cast double to int
+            // Cast double to int            
             a = (int)x; // a = 1234
         }
         public static int YasDegis(Celal par)
@@ -85,8 +85,6 @@ namespace Exto
         // This line would give a compile error
         public override int MyMethod() { return 1; }
     }
-
-
     public struct Celal
     {
         public int Yas
@@ -97,11 +95,6 @@ namespace Exto
             set;
         }
     }
-
-
-
-
-
     class Money
     {
         public Money(decimal amount)
@@ -116,6 +109,55 @@ namespace Exto
         public static explicit operator int(Money money)
         {
             return (int)money.Amount;
+        }
+    }
+    public class Base1
+    {
+        private int _privateField = 42;
+        protected int _protectedField = 42;
+        private void MyPrivateMethod() { }
+        protected void MyProtectedMethod() { }
+    }
+    public class Derived1 : Base1
+    {
+        public void MyDerivedMethod()
+        {
+            // _privateField = 41; // Not OK, this will generate a compile error
+            _protectedField = 43; // OK, protected fields can be accessed
+            // MyPrivateMethod(); // Not OK, this will generate a compile error
+            MyProtectedMethod(); // OK, protected methods can be accessed
+        }
+    }
+    internal class MyInternalClass
+    {
+        public void MyMethod() { }
+    }
+    class Person
+    {
+        private string _firstName;
+        public string FirstName
+        {
+            get { return _firstName; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                    throw new ArgumentException();
+                _firstName = value;
+            }
+        }      
+    }
+    class People
+    {
+        private string _pro;
+        public string pro
+        {
+            get { return _pro; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                    throw new ArgumentException();
+                _pro = value;
+            }
         }
     }
 }

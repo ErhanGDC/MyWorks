@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IDisposable_Exam\bin\Debug\IDisposable_Exam.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IDisposable_Exam\bin\Debug\IDisposable_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IDisposable_Exam\bin\Debug\IDisposable_Exam.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IDisposable_Exam\obj\Debug\IDisposable_Exam.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IDisposable_Exam\obj\Debug\IDisposable_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IDisposable_Exam\obj\Debug\IDisposable_Exam.pdb
