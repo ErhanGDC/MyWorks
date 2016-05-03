@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Words_Example\bin\Debug\Words_Example.e
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Words_Example\bin\Debug\Words_Example.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Words_Example\obj\Debug\Words_Example.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Words_Example\obj\Debug\Words_Example.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Words_Example\bin\Debug\Words_Example.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Words_Example\bin\Debug\Words_Example.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Words_Example\bin\Debug\Words_Example.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Words_Example\obj\Debug\Words_Example.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Words_Example\obj\Debug\Words_Example.pdb

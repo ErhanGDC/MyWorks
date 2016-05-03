@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam11\obj\Debug\Exam11.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam11\bin\Debug\Exam11.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam11\bin\Debug\Exam11.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam11\bin\Debug\Exam11.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam11\obj\Debug\Exam11.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam11\obj\Debug\Exam11.pdb

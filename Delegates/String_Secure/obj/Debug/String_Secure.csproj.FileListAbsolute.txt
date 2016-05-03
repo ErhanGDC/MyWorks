@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\String_Secure\bin\Debug\String_Secure.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\String_Secure\bin\Debug\String_Secure.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\String_Secure\bin\Debug\String_Secure.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\String_Secure\obj\Debug\String_Secure.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\String_Secure\obj\Debug\String_Secure.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\String_Secure\obj\Debug\String_Secure.pdb

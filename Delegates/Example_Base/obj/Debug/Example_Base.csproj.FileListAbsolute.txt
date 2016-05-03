@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_Base\bin\Debug\Example_Base.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_Base\bin\Debug\Example_Base.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_Base\obj\Debug\Example_Base.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Example_Base\obj\Debug\Example_Base.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Example_Base\bin\Debug\Example_Base.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Example_Base\bin\Debug\Example_Base.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Example_Base\bin\Debug\Example_Base.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Example_Base\obj\Debug\Example_Base.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Example_Base\obj\Debug\Example_Base.pdb

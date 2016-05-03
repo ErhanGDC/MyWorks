@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Single_Responsibility\bin\Debug\Single_
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Single_Responsibility\bin\Debug\Single_Responsibility.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Single_Responsibility\obj\Debug\Single_Responsibility.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Single_Responsibility\obj\Debug\Single_Responsibility.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Single_Responsibility\bin\Debug\Single_Responsibility.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Single_Responsibility\bin\Debug\Single_Responsibility.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Single_Responsibility\bin\Debug\Single_Responsibility.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Single_Responsibility\obj\Debug\Single_Responsibility.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Single_Responsibility\obj\Debug\Single_Responsibility.pdb

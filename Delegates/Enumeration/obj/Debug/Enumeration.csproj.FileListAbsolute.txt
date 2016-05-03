@@ -10,3 +10,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Enumeration\bin\Debug\Enumeration.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Enumeration\obj\Debug\Enumeration.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Enumeration\obj\Debug\Enumeration.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Enumeration\obj\Debug\Enumeration.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Enumeration\bin\Debug\Enumeration.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Enumeration\bin\Debug\Enumeration.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Enumeration\bin\Debug\Enumeration.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Enumeration\obj\Debug\Enumeration.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Enumeration\obj\Debug\Enumeration.pdb

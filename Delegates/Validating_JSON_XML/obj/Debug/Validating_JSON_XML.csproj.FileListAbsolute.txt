@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Validating_JSON_XML\bin\Debug\Validating_JSON_XML.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Validating_JSON_XML\bin\Debug\Validating_JSON_XML.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Validating_JSON_XML\bin\Debug\Validating_JSON_XML.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Validating_JSON_XML\obj\Debug\Validating_JSON_XML.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Validating_JSON_XML\obj\Debug\Validating_JSON_XML.pdb

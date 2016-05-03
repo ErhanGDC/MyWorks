@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Liskov_substitution_principle\bin\Debug
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Liskov_substitution_principle\obj\Debug\Liskov_substitution_principle.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Liskov_substitution_principle\obj\Debug\Liskov_substitution_principle.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Liskov_substitution_principle\obj\Debug\Liskov_substitution_principle.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Liskov_substitution_principle\bin\Debug\Liskov_substitution_principle.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Liskov_substitution_principle\bin\Debug\Liskov_substitution_principle.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Liskov_substitution_principle\bin\Debug\Liskov_substitution_principle.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Liskov_substitution_principle\obj\Debug\Liskov_substitution_principle.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Liskov_substitution_principle\obj\Debug\Liskov_substitution_principle.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Liskov_substitution_principle\obj\Debug\Liskov_substitution_principle.pdb

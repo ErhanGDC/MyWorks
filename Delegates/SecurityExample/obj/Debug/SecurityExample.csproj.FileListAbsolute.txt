@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\SecurityExample\bin\Debug\SecurityExamp
 C:\Users\Erhan\Desktop\MyWorks\Delegates\SecurityExample\bin\Debug\SecurityExample.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\SecurityExample\obj\Debug\SecurityExample.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\SecurityExample\obj\Debug\SecurityExample.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\SecurityExample\bin\Debug\SecurityExample.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\SecurityExample\bin\Debug\SecurityExample.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\SecurityExample\bin\Debug\SecurityExample.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\SecurityExample\obj\Debug\SecurityExample.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\SecurityExample\obj\Debug\SecurityExample.pdb

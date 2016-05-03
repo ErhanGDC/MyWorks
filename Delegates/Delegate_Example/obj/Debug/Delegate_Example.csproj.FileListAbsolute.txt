@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate_Example\bin\Debug\Delegate_Exa
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate_Example\obj\Debug\Delegate_Example.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate_Example\obj\Debug\Delegate_Example.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate_Example\obj\Debug\Delegate_Example.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate_Example\bin\Debug\Delegate_Example.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate_Example\bin\Debug\Delegate_Example.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate_Example\bin\Debug\Delegate_Example.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate_Example\obj\Debug\Delegate_Example.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate_Example\obj\Debug\Delegate_Example.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate_Example\obj\Debug\Delegate_Example.pdb

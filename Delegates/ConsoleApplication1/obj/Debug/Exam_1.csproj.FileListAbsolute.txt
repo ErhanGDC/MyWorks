@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\ConsoleApplication1\bin\Debug\ConsoleAp
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ConsoleApplication1\obj\Debug\Exam_1.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ConsoleApplication1\obj\Debug\Exam_1.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

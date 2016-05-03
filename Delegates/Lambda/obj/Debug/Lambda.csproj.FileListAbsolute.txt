@@ -10,3 +10,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Lambda\bin\Debug\Lambda.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Lambda\obj\Debug\Lambda.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Lambda\obj\Debug\Lambda.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda\bin\Debug\Lambda.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda\obj\Debug\Lambda.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda\obj\Debug\Lambda.pdb

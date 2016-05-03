@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\ExceptionDispatchInfo_Exam\bin\Debug\Ex
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExceptionDispatchInfo_Exam\obj\Debug\ExceptionDispatchInfo_Exam.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExceptionDispatchInfo_Exam\obj\Debug\ExceptionDispatchInfo_Exam.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExceptionDispatchInfo_Exam\obj\Debug\ExceptionDispatchInfo_Exam.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExceptionDispatchInfo_Exam\bin\Debug\ExceptionDispatchInfo_Exam.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExceptionDispatchInfo_Exam\bin\Debug\ExceptionDispatchInfo_Exam.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExceptionDispatchInfo_Exam\bin\Debug\ExceptionDispatchInfo_Exam.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExceptionDispatchInfo_Exam\obj\Debug\ExceptionDispatchInfo_Exam.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExceptionDispatchInfo_Exam\obj\Debug\ExceptionDispatchInfo_Exam.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExceptionDispatchInfo_Exam\obj\Debug\ExceptionDispatchInfo_Exam.pdb

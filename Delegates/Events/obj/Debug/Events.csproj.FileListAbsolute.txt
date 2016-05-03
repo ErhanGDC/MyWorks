@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Events\bin\Debug\Events.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Events\bin\Debug\Events.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Events\obj\Debug\Events.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Events\obj\Debug\Events.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Events\bin\Debug\Events.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Events\bin\Debug\Events.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Events\bin\Debug\Events.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Events\obj\Debug\Events.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Events\obj\Debug\Events.pdb

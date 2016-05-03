@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlSerializer\bin\Debug\XmlSerializer.p
 C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlSerializer\obj\Debug\XmlSerializer.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlSerializer\obj\Debug\XmlSerializer.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlSerializer\obj\Debug\XmlSerializer.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\XmlSerializer\bin\Debug\XmlSerializer.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\XmlSerializer\bin\Debug\XmlSerializer.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\XmlSerializer\bin\Debug\XmlSerializer.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\XmlSerializer\obj\Debug\XmlSerializer.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\XmlSerializer\obj\Debug\XmlSerializer.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\XmlSerializer\obj\Debug\XmlSerializer.pdb

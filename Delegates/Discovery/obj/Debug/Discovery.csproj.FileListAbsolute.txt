@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Discovery\bin\Debug\Discovery.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Discovery\bin\Debug\Discovery.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Discovery\obj\Debug\Discovery.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Discovery\obj\Debug\Discovery.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Discovery\bin\Debug\Discovery.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Discovery\bin\Debug\Discovery.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Discovery\bin\Debug\Discovery.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Discovery\obj\Debug\Discovery.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Discovery\obj\Debug\Discovery.pdb

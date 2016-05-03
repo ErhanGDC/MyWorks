@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\NightClub\bin\Debug\NightClub.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\NightClub\bin\Debug\NightClub.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\NightClub\obj\Debug\NightClub.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\NightClub\obj\Debug\NightClub.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\NightClub\bin\Debug\NightClub.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\NightClub\bin\Debug\NightClub.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\NightClub\bin\Debug\NightClub.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\NightClub\obj\Debug\NightClub.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\NightClub\obj\Debug\NightClub.pdb

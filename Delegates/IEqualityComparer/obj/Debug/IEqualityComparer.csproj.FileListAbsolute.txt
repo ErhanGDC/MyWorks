@@ -9,3 +9,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\IEqualityComparer\bin\Debug\IEqualityCo
 C:\Users\Erhan\Desktop\MyWorks\Delegates\IEqualityComparer\bin\Debug\IEqualityComparer.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\IEqualityComparer\obj\Debug\IEqualityComparer.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\IEqualityComparer\obj\Debug\IEqualityComparer.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEqualityComparer\bin\Debug\IEqualityComparer.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEqualityComparer\bin\Debug\IEqualityComparer.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEqualityComparer\bin\Debug\IEqualityComparer.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEqualityComparer\obj\Debug\IEqualityComparer.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEqualityComparer\obj\Debug\IEqualityComparer.pdb

@@ -10,3 +10,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingNumbers\bin\Debug\WorkingNumbers
 C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\WorkingNumbers\bin\Debug\WorkingNumbers.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\WorkingNumbers\bin\Debug\WorkingNumbers.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\WorkingNumbers\bin\Debug\WorkingNumbers.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\WorkingNumbers\obj\Debug\WorkingNumbers.pdb

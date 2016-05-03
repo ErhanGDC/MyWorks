@@ -10,3 +10,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Itarotor\bin\Debug\Itarotor.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Itarotor\obj\Debug\Iterators.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Itarotor\obj\Debug\Itarotor.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Itarotor\obj\Debug\Itarotor.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Itarotor\bin\Debug\Itarotor.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Itarotor\bin\Debug\Itarotor.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Itarotor\bin\Debug\Itarotor.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Itarotor\obj\Debug\Iterators.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Itarotor\obj\Debug\Itarotor.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Itarotor\obj\Debug\Itarotor.pdb

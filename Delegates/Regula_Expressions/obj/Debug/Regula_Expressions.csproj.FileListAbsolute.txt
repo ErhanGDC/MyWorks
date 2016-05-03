@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Regula_Expressions\bin\Debug\Regula_Expressions.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Regula_Expressions\bin\Debug\Regula_Expressions.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Regula_Expressions\bin\Debug\Regula_Expressions.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Regula_Expressions\obj\Debug\Regula_Expressions.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Regula_Expressions\obj\Debug\Regula_Expressions.pdb

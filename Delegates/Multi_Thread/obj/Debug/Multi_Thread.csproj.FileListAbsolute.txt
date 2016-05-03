@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Thread\bin\Debug\Multi_Thread.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Thread\obj\Debug\Multi_Thread.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Thread\obj\Debug\Multi_Thread.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Multi_Thread\obj\Debug\Multi_Thread.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Multi_Thread\bin\Debug\Multi_Thread.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Multi_Thread\bin\Debug\Multi_Thread.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Multi_Thread\bin\Debug\Multi_Thread.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Multi_Thread\obj\Debug\Multi_Thread.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Multi_Thread\obj\Debug\Multi_Thread.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Multi_Thread\obj\Debug\Multi_Thread.pdb

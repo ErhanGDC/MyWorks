@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\The_Parallel_Class\bin\Debug\The_Parall
 C:\Users\Erhan\Desktop\MyWorks\Delegates\The_Parallel_Class\bin\Debug\The_Parallel_Class.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\The_Parallel_Class\obj\Debug\The_Parallel_Class.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\The_Parallel_Class\obj\Debug\The_Parallel_Class.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\The_Parallel_Class\bin\Debug\The_Parallel_Class.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\The_Parallel_Class\bin\Debug\The_Parallel_Class.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\The_Parallel_Class\bin\Debug\The_Parallel_Class.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\The_Parallel_Class\obj\Debug\The_Parallel_Class.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\The_Parallel_Class\obj\Debug\The_Parallel_Class.pdb

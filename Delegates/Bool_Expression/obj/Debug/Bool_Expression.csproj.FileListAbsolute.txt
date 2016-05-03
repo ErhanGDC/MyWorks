@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Bool_Expression\bin\Debug\Bool_Expressi
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Bool_Expression\bin\Debug\Bool_Expression.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Bool_Expression\obj\Debug\Bool_Expression.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Bool_Expression\obj\Debug\Bool_Expression.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Bool_Expression\bin\Debug\Bool_Expression.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Bool_Expression\bin\Debug\Bool_Expression.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Bool_Expression\bin\Debug\Bool_Expression.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Bool_Expression\obj\Debug\Bool_Expression.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Bool_Expression\obj\Debug\Bool_Expression.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Bool_Expression\obj\Debug\Bool_Expression.pdb

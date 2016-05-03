@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Timer_Thread\bin\Debug\Timer_Thread.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Timer_Thread\bin\Debug\Timer_Thread.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Timer_Thread\obj\Debug\Timer_Thread.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Timer_Thread\obj\Debug\Timer_Thread.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Timer_Thread\bin\Debug\Timer_Thread.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Timer_Thread\bin\Debug\Timer_Thread.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Timer_Thread\bin\Debug\Timer_Thread.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Timer_Thread\obj\Debug\Timer_Thread.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Timer_Thread\obj\Debug\Timer_Thread.pdb

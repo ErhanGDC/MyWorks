@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Lambda_expressions\bin\Debug\Lambda_exp
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Lambda_expressions\obj\Debug\Lambda_expressions.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Lambda_expressions\obj\Debug\Lambda_expressions.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Lambda_expressions\obj\Debug\Lambda_expressions.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda_expressions\bin\Debug\Lambda_expressions.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda_expressions\obj\Debug\Lambda_expressions.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda_expressions\obj\Debug\Lambda_expressions.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda_expressions\bin\Debug\Lambda_expressions.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda_expressions\bin\Debug\Lambda_expressions.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Lambda_expressions\obj\Debug\Lambda_expressions.csprojResolveAssemblyReference.cache

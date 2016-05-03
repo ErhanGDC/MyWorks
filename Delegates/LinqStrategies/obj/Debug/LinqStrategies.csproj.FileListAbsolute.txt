@@ -9,3 +9,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\bin\Debug\LinqStrategies
 C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\bin\Debug\LinqStrategies.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\LinqStrategies\bin\Debug\LinqStrategies.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\LinqStrategies\bin\Debug\LinqStrategies.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\LinqStrategies\bin\Debug\LinqStrategies.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\LinqStrategies\obj\Debug\LinqStrategies.pdb

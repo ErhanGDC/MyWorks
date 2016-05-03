@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\ExampleSystemDate\bin\Debug\ExampleSyst
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExampleSystemDate\bin\Debug\ExampleSystemDate.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExampleSystemDate\obj\Debug\ExampleSystemDate.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\ExampleSystemDate\obj\Debug\ExampleSystemDate.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExampleSystemDate\bin\Debug\ExampleSystemDate.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExampleSystemDate\bin\Debug\ExampleSystemDate.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExampleSystemDate\bin\Debug\ExampleSystemDate.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExampleSystemDate\obj\Debug\ExampleSystemDate.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExampleSystemDate\obj\Debug\ExampleSystemDate.pdb

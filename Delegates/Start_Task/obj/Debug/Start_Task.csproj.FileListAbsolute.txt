@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Start_Task\bin\Debug\Start_Task.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Start_Task\bin\Debug\Start_Task.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Start_Task\obj\Debug\Start_Task.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Start_Task\obj\Debug\Start_Task.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Start_Task\bin\Debug\Start_Task.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Start_Task\bin\Debug\Start_Task.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Start_Task\bin\Debug\Start_Task.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Start_Task\obj\Debug\Start_Task.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Start_Task\obj\Debug\Start_Task.pdb

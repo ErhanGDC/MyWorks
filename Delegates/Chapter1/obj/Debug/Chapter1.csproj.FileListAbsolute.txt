@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Chapter1\bin\Debug\Chapter1.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Chapter1\bin\Debug\Chapter1.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Chapter1\obj\Debug\Chapter1.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Chapter1\obj\Debug\Chapter1.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Chapter1\bin\Debug\Chapter1.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Chapter1\bin\Debug\Chapter1.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Chapter1\bin\Debug\Chapter1.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Chapter1\obj\Debug\Chapter1.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Chapter1\obj\Debug\Chapter1.pdb

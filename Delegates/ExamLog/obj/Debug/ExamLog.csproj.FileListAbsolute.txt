@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExamLog\bin\Debug\ExamLog.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExamLog\bin\Debug\ExamLog.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExamLog\bin\Debug\ExamLog.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExamLog\obj\Debug\ExamLog.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\ExamLog\obj\Debug\ExamLog.pdb

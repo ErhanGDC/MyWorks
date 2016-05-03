@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\bin\Debug\DynamicExample
 C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\bin\Debug\DynamicExample.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\obj\Debug\DynamicExample.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\DynamicExample\obj\Debug\DynamicExample.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\DynamicExample\bin\Debug\DynamicExample.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\DynamicExample\bin\Debug\DynamicExample.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\DynamicExample\bin\Debug\DynamicExample.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\DynamicExample\obj\Debug\DynamicExample.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\DynamicExample\obj\Debug\DynamicExample.pdb

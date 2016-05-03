@@ -9,3 +9,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Customizable1\bin\Debug\Customizable1.e
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Customizable1\bin\Debug\Customizable1.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Customizable1\obj\Debug\Customizable1.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Customizable1\obj\Debug\Customizable1.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Customizable1\bin\Debug\Customizable1.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Customizable1\bin\Debug\Customizable1.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Customizable1\bin\Debug\Customizable1.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Customizable1\obj\Debug\Customizable1.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Customizable1\obj\Debug\Customizable1.pdb

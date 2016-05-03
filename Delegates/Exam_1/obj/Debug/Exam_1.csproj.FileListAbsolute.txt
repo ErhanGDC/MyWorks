@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_1\bin\Debug\Exam_1.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_1\bin\Debug\Exam_1.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_1\obj\Debug\Exam_1.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam_1\obj\Debug\Exam_1.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam_1\bin\Debug\Exam_1.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam_1\bin\Debug\Exam_1.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam_1\bin\Debug\Exam_1.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam_1\obj\Debug\Exam_1.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam_1\obj\Debug\Exam_1.pdb

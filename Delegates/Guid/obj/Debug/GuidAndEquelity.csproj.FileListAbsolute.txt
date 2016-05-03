@@ -9,3 +9,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\bin\Debug\Guid.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\bin\Debug\Guid.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\obj\Debug\Guid.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Guid\obj\Debug\Guid.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Guid\bin\Debug\Guid.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Guid\bin\Debug\Guid.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Guid\bin\Debug\Guid.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Guid\obj\Debug\Guid.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Guid\obj\Debug\Guid.pdb

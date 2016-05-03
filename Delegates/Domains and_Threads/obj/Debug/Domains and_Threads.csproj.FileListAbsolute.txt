@@ -3,3 +3,8 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Domains and_Threads\bin\Debug\Domains a
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Domains and_Threads\bin\Debug\Domains and_Threads.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Domains and_Threads\obj\Debug\Domains and_Threads.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Domains and_Threads\obj\Debug\Domains and_Threads.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Domains and_Threads\bin\Debug\Domains and_Threads.exe.config
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Domains and_Threads\bin\Debug\Domains and_Threads.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Domains and_Threads\bin\Debug\Domains and_Threads.pdb
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Domains and_Threads\obj\Debug\Domains and_Threads.exe
+C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Domains and_Threads\obj\Debug\Domains and_Threads.pdb
