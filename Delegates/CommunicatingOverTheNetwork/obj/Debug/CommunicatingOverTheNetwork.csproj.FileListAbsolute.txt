@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CommunicatingOverTheNetwork\bin\Debug\CommunicatingOverTheNetwork.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CommunicatingOverTheNetwork\bin\Debug\CommunicatingOverTheNetwork.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CommunicatingOverTheNetwork\bin\Debug\CommunicatingOverTheNetwork.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CommunicatingOverTheNetwork\obj\Debug\CommunicatingOverTheNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CommunicatingOverTheNetwork\obj\Debug\CommunicatingOverTheNetwork.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\CommunicatingOverTheNetwork\obj\Debug\CommunicatingOverTheNetwork.pdb

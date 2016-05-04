@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Providers_Exam\bin\Debug\Providers_Exam.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Providers_Exam\bin\Debug\Providers_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Providers_Exam\bin\Debug\Providers_Exam.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Providers_Exam\obj\Debug\Providers_Exam.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Providers_Exam\obj\Debug\Providers_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Providers_Exam\obj\Debug\Providers_Exam.pdb

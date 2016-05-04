@@ -13,8 +13,8 @@ namespace Lambda_expressions
             Func<int, int, int> addFunc = (x, y) => x + y;
             Console.WriteLine(addFunc(2, 3));
 
-            Func<int, int, int> Multiply = (x, y) => x - y;
-            Console.WriteLine(Multiply(15,5));
+            //Func<int, int, int> mmultiply = (x, y) => x - y;
+            //Console.WriteLine(multiply(15,5));
 
             Console.Read();
         }

@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\DECORATOR_PATTERN_File\bin\Debug\DECORATOR_PATTERN_File.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\DECORATOR_PATTERN_File\bin\Debug\DECORATOR_PATTERN_File.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\DECORATOR_PATTERN_File\bin\Debug\DECORATOR_PATTERN_File.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\DECORATOR_PATTERN_File\obj\Debug\DECORATOR_PATTERN_File.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\DECORATOR_PATTERN_File\obj\Debug\DECORATOR_PATTERN_File.pdb

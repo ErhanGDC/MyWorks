@@ -8,3 +8,4 @@ C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Thread_Basic\bin\Debug\Thread_Basi
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Thread_Basic\bin\Debug\Thread_Basic.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Thread_Basic\obj\Debug\Thread_Basic.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Thread_Basic\obj\Debug\Thread_Basic.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Thread_Basic\obj\Debug\Thread_Basic.csprojResolveAssemblyReference.cache

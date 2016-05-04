@@ -19,7 +19,7 @@ namespace Attribute
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        //[Conditional(“CONDITION1”), Conditional(“CONDITION2”)]
+        //[Conditional("CONDITION1"), Conditional("CONDITION2")]
         [assembly: AssemblyTitle("ClassLibrary1")]
         [assembly: AssemblyDescription("")]
         [assembly: AssemblyConfiguration("")]

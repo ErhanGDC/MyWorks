@@ -39,7 +39,7 @@ namespace Thread_Basic
 
 //Only one thread can lock the synchronizing object (in this case, _locker) at a time,
 //and any contending threads are blocked until the lock is released. If more than one
-//thread contends the lock, they are queued on a “ready queue” and granted the lock
+//thread contends the lock, they are queued on a "ready queue" and granted the lock
 //on a first-come, first-served basis.1 Exclusive locks are sometimes said to enforce
 //serialized access to whatever’s protected by the lock, because one thread’s access
 //cannot overlap with that of another. In this case, we’re protecting the logic inside
@@ -60,7 +60,7 @@ namespace Thread_Basic
             }
         }
     }
-    // Dead Lock  The popular advice, “lock objects in a consistent order to avoid deadlocks,”
+    // Dead Lock  The popular advice, "lock objects in a consistent order to avoid deadlocks,"
     public class DeadLock_Example
     {
 //    object locker1 = new object();

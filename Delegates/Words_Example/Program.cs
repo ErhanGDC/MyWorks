@@ -19,7 +19,7 @@ namespace Words_Example
             File.ReadAllLines("WordLookup.txt"),
             StringComparer.InvariantCultureIgnoreCase);
 
-            //We’ll then use our word lookup to create a test “document” comprising an array of
+            //We’ll then use our word lookup to create a test "document" comprising an array of
             //a million random words. After building the array, we’ll introduce a couple of spelling
             //mistakes:
 

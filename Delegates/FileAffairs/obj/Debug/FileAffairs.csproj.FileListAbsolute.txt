@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FileAffairs\obj\Debug\FileAffairs.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FileAffairs\bin\Debug\FileAffairs.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FileAffairs\bin\Debug\FileAffairs.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FileAffairs\bin\Debug\FileAffairs.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FileAffairs\obj\Debug\FileAffairs.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\FileAffairs\obj\Debug\FileAffairs.pdb

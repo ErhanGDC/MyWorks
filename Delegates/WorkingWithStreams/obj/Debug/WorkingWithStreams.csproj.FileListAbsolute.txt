@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingWithStreams\bin\Debug\WorkingWithStreams.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingWithStreams\bin\Debug\WorkingWithStreams.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingWithStreams\bin\Debug\WorkingWithStreams.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingWithStreams\obj\Debug\WorkingWithStreams.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingWithStreams\obj\Debug\WorkingWithStreams.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\WorkingWithStreams\obj\Debug\WorkingWithStreams.pdb
