@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\obj\Debug\HelloWorld.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\HelloWorld\obj\Debug\HelloWorld.pdb

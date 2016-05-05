@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Creating_WCF_Service\bin\Debug\Creating_WCF_Service.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Creating_WCF_Service\obj\Debug\Creating_WCF_Service.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Creating_WCF_Service\bin\Debug\Creating_WCF_Service.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Creating_WCF_Service\bin\Debug\Creating_WCF_Service.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Creating_WCF_Service\obj\Debug\Creating_WCF_Service.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Creating_WCF_Service\obj\Debug\Creating_WCF_Service.pdb

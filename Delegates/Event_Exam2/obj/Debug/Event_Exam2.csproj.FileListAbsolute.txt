@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\obj\Debug\Event_Exam2.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\obj\Debug\Event_Exam2.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\obj\Debug\Event_Exam2.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Event_Exam2\obj\Debug\Event_Exam2.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Event_Exam2\obj\Debug\Event_Exam2.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Event_Exam2\obj\Debug\Event_Exam2.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\bin\Debug\Event_Exam2.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\obj\Debug\Event_Exam2.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Event_Exam2\obj\Debug\Event_Exam2.pdb

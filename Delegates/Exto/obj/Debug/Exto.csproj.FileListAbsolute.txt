@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\bin\Debug\Exto.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\bin\Debug\Exto.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\bin\Debug\Exto.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\obj\Debug\Exto.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\obj\Debug\Exto.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\obj\Debug\Exto.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exto\bin\Debug\Exto.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exto\bin\Debug\Exto.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exto\bin\Debug\Exto.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exto\obj\Debug\Exto.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exto\obj\Debug\Exto.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exto\obj\Debug\Exto.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\bin\Debug\Exto.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\bin\Debug\Exto.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\bin\Debug\Exto.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\obj\Debug\Exto.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exto\obj\Debug\Exto.pdb

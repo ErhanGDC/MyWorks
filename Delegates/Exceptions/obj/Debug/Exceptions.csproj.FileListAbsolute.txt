@@ -4,15 +4,15 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Exceptions\bin\De
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Exceptions\bin\Debug\Exceptions.pdb
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Exceptions\obj\Debug\Exceptions.exe
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\Exceptions\obj\Debug\Exceptions.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exceptions\obj\Debug\Exceptions.pdb

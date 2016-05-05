@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\MultipleSelect\bin\Debug\MultipleSelect.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\MultipleSelect\bin\Debug\MultipleSelect.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\MultipleSelect\bin\Debug\MultipleSelect.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\MultipleSelect\obj\Debug\MultipleSelect.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\MultipleSelect\obj\Debug\MultipleSelect.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\MultipleSelect\obj\Debug\MultipleSelect.csprojResolveAssemblyReference.cache

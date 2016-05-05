@@ -1,6 +1,5 @@
 C:\Users\Erhan\Desktop\MyWorks\Delegates\FileSearch\bin\Debug\FileSearch.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\FileSearch\bin\Debug\FileSearch.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\FileSearch\bin\Debug\FileSearch.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\FileSearch\obj\Debug\FileSearch.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\FileSearch\obj\Debug\FileSearch.pdb

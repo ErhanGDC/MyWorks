@@ -4,13 +4,13 @@ C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\QeryExpressions\b
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\QeryExpressions\obj\Debug\QeryExpressions.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\QeryExpressions\obj\Debug\QeryExpressions.exe
 C:\Users\Erhan\Desktop\My Books\MyExamples\Delegates\Delegates\QeryExpressions\obj\Debug\QeryExpressions.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\obj\Debug\QeryExpressions.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\obj\Debug\QeryExpressions.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\QeryExpressions\obj\Debug\QeryExpressions.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\QeryExpressions\obj\Debug\QeryExpressions.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\bin\Debug\QeryExpressions.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\obj\Debug\QeryExpressions.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\QeryExpressions\obj\Debug\QeryExpressions.pdb

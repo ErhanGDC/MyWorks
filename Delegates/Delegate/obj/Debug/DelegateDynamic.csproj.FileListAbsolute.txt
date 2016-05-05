@@ -1,10 +1,10 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\bin\Debug\Delegate.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\bin\Debug\Delegate.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\bin\Debug\Delegate.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\obj\Debug\Delegate.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\obj\Debug\Delegate.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate\bin\Debug\Delegate.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate\bin\Debug\Delegate.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate\bin\Debug\Delegate.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate\obj\Debug\Delegate.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Delegate\obj\Debug\Delegate.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\bin\Debug\Delegate.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\obj\Debug\Delegate.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Delegate\obj\Debug\Delegate.pdb

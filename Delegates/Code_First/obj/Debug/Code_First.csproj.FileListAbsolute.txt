@@ -1,0 +1,10 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\obj\Debug\Code_First.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\bin\Debug\Code_First.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\bin\Debug\Code_First.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\bin\Debug\Code_First.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\bin\Debug\EntityFramework.dll
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\bin\Debug\EntityFramework.xml
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\obj\Debug\Code_First.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Code_First\obj\Debug\Code_First.pdb

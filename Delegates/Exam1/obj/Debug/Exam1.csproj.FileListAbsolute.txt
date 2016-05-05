@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\bin\Debug\Exam1.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\bin\Debug\Exam1.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\bin\Debug\Exam1.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\obj\Debug\Exam1.csprojResolveAssemblyReference.cache
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\obj\Debug\Exam1.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\obj\Debug\Exam1.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam1\bin\Debug\Exam1.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam1\bin\Debug\Exam1.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam1\bin\Debug\Exam1.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam1\obj\Debug\Exam1.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam1\obj\Debug\Exam1.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Exam1\obj\Debug\Exam1.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\bin\Debug\Exam1.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\bin\Debug\Exam1.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\bin\Debug\Exam1.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\obj\Debug\Exam1.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Exam1\obj\Debug\Exam1.pdb

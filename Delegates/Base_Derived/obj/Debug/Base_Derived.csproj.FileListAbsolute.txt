@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\obj\Debug\Base_Derived.csprojResolveAssemblyReference.cache
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\obj\Debug\Base_Derived.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\obj\Debug\Base_Derived.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Base_Derived\obj\Debug\Base_Derived.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Base_Derived\obj\Debug\Base_Derived.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Base_Derived\obj\Debug\Base_Derived.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\bin\Debug\Base_Derived.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\obj\Debug\Base_Derived.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Base_Derived\obj\Debug\Base_Derived.pdb

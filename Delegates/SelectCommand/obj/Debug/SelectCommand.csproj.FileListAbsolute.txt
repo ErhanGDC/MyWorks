@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\SelectCommand\bin\Debug\SelectCommand.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\SelectCommand\bin\Debug\SelectCommand.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\SelectCommand\bin\Debug\SelectCommand.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\SelectCommand\obj\Debug\SelectCommand.csprojResolveAssemblyReference.cache
+C:\Users\Erhan\Desktop\MyWorks\Delegates\SelectCommand\obj\Debug\SelectCommand.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\SelectCommand\obj\Debug\SelectCommand.pdb

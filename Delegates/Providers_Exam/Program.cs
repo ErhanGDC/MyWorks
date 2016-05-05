@@ -16,11 +16,11 @@ namespace Providers_Exam
             sqlConnectionStringBuilder.InitialCatalog = "ProgrammingInCSharp";
             string connectionString = sqlConnectionStringBuilder.ToString();
 
-           //connectionString = ConfigurationManager.ConnectionStrings["ProgrammingInCSharpConnection"].ConnectionString;
+           //string connectionString = ConfigurationManager.ConnectionStrings["ProgrammingInCSharpConnection"].ConnectionString;
            // using (SqlConnection connection = new SqlConnection(connectionString))
            // {
            //     connection.Open();
-           // }
+           // } 
         }
     }
 }

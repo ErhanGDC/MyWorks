@@ -1,10 +1,10 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\obj\Debug\VisitorPattern.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\obj\Debug\VisitorPattern.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\VisitorPattern\obj\Debug\VisitorPattern.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\VisitorPattern\obj\Debug\VisitorPattern.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\obj\Debug\VisitorPattern.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\VisitorPattern\obj\Debug\VisitorPattern.pdb

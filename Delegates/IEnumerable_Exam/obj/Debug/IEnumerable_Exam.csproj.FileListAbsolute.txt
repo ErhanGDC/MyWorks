@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\obj\Debug\IEnumerable_Exam.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\obj\Debug\IEnumerable_Exam.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\obj\Debug\IEnumerable_Exam.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEnumerable_Exam\obj\Debug\IEnumerable_Exam.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEnumerable_Exam\obj\Debug\IEnumerable_Exam.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IEnumerable_Exam\obj\Debug\IEnumerable_Exam.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\bin\Debug\IEnumerable_Exam.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\obj\Debug\IEnumerable_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IEnumerable_Exam\obj\Debug\IEnumerable_Exam.pdb

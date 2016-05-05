@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\obj\Debug\IComparable_Example.csprojResolveAssemblyReference.cache
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\obj\Debug\IComparable_Example.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\obj\Debug\IComparable_Example.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IComparable_Example\obj\Debug\IComparable_Example.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IComparable_Example\obj\Debug\IComparable_Example.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\IComparable_Example\obj\Debug\IComparable_Example.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\bin\Debug\IComparable_Example.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\obj\Debug\IComparable_Example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\IComparable_Example\obj\Debug\IComparable_Example.pdb

@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\obj\Debug\Reflect_Exam.csprojResolveAssemblyReference.cache
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\obj\Debug\Reflect_Exam.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\obj\Debug\Reflect_Exam.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Reflect_Exam\obj\Debug\Reflect_Exam.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Reflect_Exam\obj\Debug\Reflect_Exam.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Reflect_Exam\obj\Debug\Reflect_Exam.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\bin\Debug\Reflect_Exam.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\obj\Debug\Reflect_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Reflect_Exam\obj\Debug\Reflect_Exam.pdb

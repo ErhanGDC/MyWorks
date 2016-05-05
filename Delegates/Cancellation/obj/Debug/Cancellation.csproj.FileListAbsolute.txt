@@ -1,12 +1,11 @@
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.exe.config
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\obj\Debug\Cancellation.exe
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\obj\Debug\Cancellation.pdb
-C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\obj\Debug\Cancellation.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.exe.config
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.pdb
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Cancellation\obj\Debug\Cancellation.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Cancellation\obj\Debug\Cancellation.exe
 C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Cancellation\obj\Debug\Cancellation.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\bin\Debug\Cancellation.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\obj\Debug\Cancellation.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Cancellation\obj\Debug\Cancellation.pdb
