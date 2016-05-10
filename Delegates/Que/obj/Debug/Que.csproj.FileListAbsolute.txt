@@ -7,5 +7,6 @@ C:\Users\Erhan\Desktop\Save\MyWorks\Delegates\Que\obj\Debug\Que.pdb
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Que\bin\Debug\Que.exe.config
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Que\bin\Debug\Que.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Que\bin\Debug\Que.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Que\obj\Debug\Que.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Que\obj\Debug\Que.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Que\obj\Debug\Que.pdb

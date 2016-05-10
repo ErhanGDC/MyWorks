@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlWriter_Example\bin\Debug\XmlWriter_Example.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlWriter_Example\bin\Debug\XmlWriter_Example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlWriter_Example\bin\Debug\XmlWriter_Example.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlWriter_Example\obj\Debug\XmlWriter_Example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlWriter_Example\obj\Debug\XmlWriter_Example.pdb

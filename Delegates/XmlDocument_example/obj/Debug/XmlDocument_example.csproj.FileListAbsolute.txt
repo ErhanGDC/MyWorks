@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlDocument_example\bin\Debug\XmlDocument_example.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlDocument_example\bin\Debug\XmlDocument_example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlDocument_example\bin\Debug\XmlDocument_example.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlDocument_example\obj\Debug\XmlDocument_example.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\XmlDocument_example\obj\Debug\XmlDocument_example.pdb

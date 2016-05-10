@@ -1,0 +1,5 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\LINQ_Exam\bin\Debug\LINQ_Exam.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\LINQ_Exam\bin\Debug\LINQ_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\LINQ_Exam\bin\Debug\LINQ_Exam.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\LINQ_Exam\obj\Debug\LINQ_Exam.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\LINQ_Exam\obj\Debug\LINQ_Exam.pdb

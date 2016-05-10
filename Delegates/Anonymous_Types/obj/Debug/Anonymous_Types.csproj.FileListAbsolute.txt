@@ -1,0 +1,6 @@
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Anonymous_Types\bin\Debug\Anonymous_Types.exe.config
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Anonymous_Types\bin\Debug\Anonymous_Types.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Anonymous_Types\bin\Debug\Anonymous_Types.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Anonymous_Types\obj\Debug\Anonymous_Types.exe
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Anonymous_Types\obj\Debug\Anonymous_Types.pdb
+C:\Users\Erhan\Desktop\MyWorks\Delegates\Anonymous_Types\obj\Debug\Anonymous_Types.csprojResolveAssemblyReference.cache
