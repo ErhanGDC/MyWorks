@@ -305,6 +305,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floyd_Warshall", "Floyd_Warshall\Floyd_Warshall.csproj", "{70DED7B0-A848-4A7E-9684-FF1470E40EE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business_Delegate_Pattern", "Business_Delegate_Pattern\Business_Delegate_Pattern.csproj", "{9E10E548-4D7A-474D-88E9-0FA05B8B3955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -751,6 +753,10 @@ Global
 		{70DED7B0-A848-4A7E-9684-FF1470E40EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70DED7B0-A848-4A7E-9684-FF1470E40EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70DED7B0-A848-4A7E-9684-FF1470E40EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E10E548-4D7A-474D-88E9-0FA05B8B3955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E10E548-4D7A-474D-88E9-0FA05B8B3955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E10E548-4D7A-474D-88E9-0FA05B8B3955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E10E548-4D7A-474D-88E9-0FA05B8B3955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -878,5 +884,6 @@ Global
 		{C004389C-B734-499B-A6C8-9E8040466347} = {AF03C5BB-82DB-4455-810F-BDA54FCFFE5D}
 		{CB44F3D0-2FA9-45C6-8A86-083C4CFB3B8A} = {AF03C5BB-82DB-4455-810F-BDA54FCFFE5D}
 		{70DED7B0-A848-4A7E-9684-FF1470E40EE3} = {8443D66B-794A-4FEE-95A7-7E5BA154A622}
+		{9E10E548-4D7A-474D-88E9-0FA05B8B3955} = {51ACC2BF-6BFB-4A83-8EB6-EB677417A3F1}
 	EndGlobalSection
 EndGlobal
