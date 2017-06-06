@@ -4,3 +4,9 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Floyd_Warshall\bin\Debug\Floyd_Warshall
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Floyd_Warshall\obj\Debug\Floyd_Warshall.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Floyd_Warshall\obj\Debug\Floyd_Warshall.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Floyd_Warshall\obj\Debug\Floyd_Warshall.pdb
+C:\Users\LG\Desktop\MyWorks\Delegates\Floyd_Warshall\bin\Debug\Floyd_Warshall.exe.config
+C:\Users\LG\Desktop\MyWorks\Delegates\Floyd_Warshall\obj\Debug\Floyd_Warshall.exe
+C:\Users\LG\Desktop\MyWorks\Delegates\Floyd_Warshall\obj\Debug\Floyd_Warshall.pdb
+C:\Users\LG\Desktop\MyWorks\Delegates\Floyd_Warshall\bin\Debug\Floyd_Warshall.exe
+C:\Users\LG\Desktop\MyWorks\Delegates\Floyd_Warshall\bin\Debug\Floyd_Warshall.pdb
+C:\Users\LG\Desktop\MyWorks\Delegates\Floyd_Warshall\obj\Debug\Floyd_Warshall.csprojResolveAssemblyReference.cache

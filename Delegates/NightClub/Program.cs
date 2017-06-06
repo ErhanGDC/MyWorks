@@ -13,7 +13,7 @@ namespace NightClub
         {
             // Too nice example =)
             TheClub club = new TheClub();
-            for (int i = 1; i <= 5; i++) new Thread(TheClub.Enter).Start(i);
+            for (int i = 1; i <= 50; i++) new Thread(TheClub.Enter).Start(i);
             Console.ReadLine();
         }
     }
@@ -52,7 +52,7 @@ namespace NightClub
             while (true)
             {
                 _rw.EnterReadLock();
-                foreach (int i in _items) Thread.Sleep(10);
+                foreach (int i in _items) Thread.Sleep(100);
                 _rw.ExitReadLock();
             }
         }
@@ -65,7 +65,7 @@ namespace NightClub
                 _items.Add(newNumber);
                 _rw.ExitWriteLock();
                 Console.WriteLine("Thread " + threadID + " added " + newNumber);
-                Thread.Sleep(100);
+                Thread.Sleep(1000);
             }
         }
         static int GetRandNum(int max) { lock (_rand) return _rand.Next(max); }

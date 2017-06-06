@@ -13,10 +13,10 @@ namespace LinqStrategies
         {
             string[] names = { "Mai", "Joe", "Jesse", "Kevin", "Anderson", "Ronaldo" };
 
-            //IEnumerable<string> query = names
-            //    .Select(n => n.Replace("a", "").Replace("e", "").Replace("i", "").Replace("o", "").Replace("u", ""))
-            //    .Where(n => n.Length > 2)
-            //    .OrderBy(n => n);
+            IEnumerable<string> query = names
+                .Select(n => n.Replace("a", "").Replace("e", "").Replace("i", "").Replace("o", "").Replace("u", ""))
+                .Where(n => n.Length > 2)
+                .OrderBy(n => n);
 
             IEnumerable<tempProjectionItem> temp = from n in names
                                        select new tempProjectionItem

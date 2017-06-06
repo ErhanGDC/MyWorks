@@ -9,6 +9,7 @@ namespace DynamicExample
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             int x, y;
@@ -30,9 +31,9 @@ namespace DynamicExample
     public class Person
     {
         public string Firstname { get; set; }
+        public string LastName { get; set; }
 
         // The Friends collection may contain Customers & Employees:
-        public string LastName { get; set; }
         public readonly IList<Person> friends = new Collection<Person>();
     }
     class Customer : Person { public decimal CreditLimit { get; set; } }

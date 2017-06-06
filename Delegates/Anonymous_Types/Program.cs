@@ -54,6 +54,37 @@ namespace Anonymous_Types
             Console.WriteLine(string.Join(", ", result4)); // Displays 2, 4, 6, 4, 8, 12, 10, 20, 30
 
 
+            OrderLine ol1 = new OrderLine() { Amount = 10, Product = new Product() { Description = "AMK1", Price = 1 } };
+            OrderLine ol2 = new OrderLine() { Amount = 20, Product = new Product() { Description = "AMK2", Price = 2 } };
+            OrderLine ol3 = new OrderLine() { Amount = 30, Product = new Product() { Description = "AMK3", Price = 3 } };
+            OrderLine ol4 = new OrderLine() { Amount = 40, Product = new Product() { Description = "AMK4", Price = 4 } };
+            OrderLine ol5 = new OrderLine() { Amount = 50, Product = new Product() { Description = "AMK5", Price = 5 } };
+            OrderLine ol6 = new OrderLine() { Amount = 60, Product = new Product() { Description = "AMK6", Price = 6 } };
+            OrderLine ol7 = new OrderLine() { Amount = 70, Product = new Product() { Description = "AMK7", Price = 7 } };
+            OrderLine ol8 = new OrderLine() { Amount = 80, Product = new Product() { Description = "AMK8", Price = 8 } };
+            OrderLine ol9 = new OrderLine() { Amount = 90, Product = new Product() { Description = "AMK9", Price = 9 } };
+
+            List<OrderLine> ListOrderLines = new List<OrderLine>();
+            ListOrderLines.Add(ol1);
+            ListOrderLines.Add(ol2);
+            ListOrderLines.Add(ol3);
+            ListOrderLines.Add(ol4);
+            ListOrderLines.Add(ol5);
+            ListOrderLines.Add(ol6);
+            ListOrderLines.Add(ol7);
+            ListOrderLines.Add(ol8);
+            ListOrderLines.Add(ol9);
+
+            var averageNumberOfOrderLine = ListOrderLines.Average(x => x.Product.Price);
+            var BigResult = from o in ListOrderLines
+                            from l in ListOrderLines
+                            group l by l.Product into p
+                            select new
+                            {
+                                Product = p.Key,
+                                Amount = p.Sum(x => x.Amount)
+                            };
+
             //var averageNumberOfOrderLines = orders.Average(o => o.OrderLines.Count);
             //var result1 = from o in orders
             //             from l in o.OrderLines

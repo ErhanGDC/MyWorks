@@ -4,3 +4,6 @@ C:\Users\Erhan\Desktop\MyWorks\Delegates\Business_Delegate_Pattern\bin\Debug\Bus
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Business_Delegate_Pattern\obj\Debug\Business_Delegate_Pattern.csprojResolveAssemblyReference.cache
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Business_Delegate_Pattern\obj\Debug\Business_Delegate_Pattern.exe
 C:\Users\Erhan\Desktop\MyWorks\Delegates\Business_Delegate_Pattern\obj\Debug\Business_Delegate_Pattern.pdb
+C:\Users\LG\Desktop\MyWorks\Delegates\Business_Delegate_Pattern\bin\Debug\Business_Delegate_Pattern.exe.config
+C:\Users\LG\Desktop\MyWorks\Delegates\Business_Delegate_Pattern\obj\Debug\Business_Delegate_Pattern.exe
+C:\Users\LG\Desktop\MyWorks\Delegates\Business_Delegate_Pattern\obj\Debug\Business_Delegate_Pattern.pdb
